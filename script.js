@@ -11,4 +11,20 @@ function weekdays(){
 
     var malesNames = ["kwasi", "kwadwo", "kwabena", "kwaku", "yaw", "kofi", "kwame"];
     var femalesNames = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
+
+    var gender = document.querySelector('input[name="optradio"]:checked').value;;
+    console.log(gender);
+
+    if (gender === "male") {
+
+        console.log(malesNames[Math.round(birthDay)]);
+        document.getElementById("names").innerHTML = malesNames[Math.round(birthDay)];
+
+    } else if(gender === "female") {
+
+        console.log(femalesNames[Math.round(birthDay)]);
+        document.getElementById("names").innerHTML = femalesNames[Math.round(birthDay)];
+    } else {
+        console.log("invalid outuput");
+    }
 }
