@@ -1,6 +1,6 @@
 # Akan Name web application
 
-    It performs the day when a person is born and returns his akan name, 14 July 2019.
+    It performs the day whe a person is born and returns his Akan name, 19 July 2019.
 
 ## Author
 
@@ -26,23 +26,24 @@
 
 ### Input
 
-    Select the birthdate through calendar, and choose gender.
+    Select the birthdate through calendar and choose gender.
 
-###Output
+### Output
 
-    Displays the day you were born and the corresponding Akan name after clicking on submit button.
+    It displays the day the user has born and the corresponding Akan name after clicking on submit button.
 
 ## Technologies Used
 
-   It was done using HTML, CSS, bootstrap, and Javascript. 
+    This application was done using HTML, CSS, Bootstrap and Javascript.
 
 ## Support and contact details
 
-    For any issues or questions, ideas or concern, please contact me on my email: aggyreina@gmail.com.
+    For any issues or questions, ideas or concern, please contact me on my email aggyreina@gmail.com.
 
 ### License
 
     MIT license
+
     Copyright (c) 2019 Moringa School
 
     Created with all the love in the world, enjoy it is free of charge.
