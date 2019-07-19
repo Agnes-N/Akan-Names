@@ -39,6 +39,8 @@
 ## Support and contact details
 
     For any issues or questions, ideas or concern, please contact me on my e-mail: aggyreina@gmail.com.
+    
+    Check it out here: https://agnes-n.github.io/Akan-Names/
 
 ### License
 
