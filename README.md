@@ -12,13 +12,13 @@
 
 ## Setup/Installation Requirements
 
-* find code editor
-* get ubuntu or any other terminal to use
-* cd Documents
-* cd BOOTSTRAP
-* cd Akan-Names
-* git clone https://github.com/Agnes-N/Akan-Names.git
-* code .
+    * find code editor
+    * get ubuntu or any other terminal to use
+    * cd Documents
+    * cd BOOTSTRAP
+    * cd Akan-Names
+    * git clone https://github.com/Agnes-N/Akan-Names.git
+    * code .
 
 ## Behavior Driven Development
 
