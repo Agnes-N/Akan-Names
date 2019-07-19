@@ -38,7 +38,7 @@
 
 ## Support and contact details
 
-    For any issues or questions, ideas or concern, please contact me on my email aggyreina@gmail.com.
+    For any issues or questions, ideas or concern, please contact me on my email: aggyreina@gmail.com.
 
 ### License
 
