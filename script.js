@@ -1,4 +1,4 @@
-function weekdays(){
+function weekdays() {
     var day = document.getElementById("day").value;
     var enterDate = day.split("-");
     var dd = parseInt(enterDate[2]);
@@ -20,7 +20,7 @@ function weekdays(){
         console.log(malesNames[Math.round(birthDay)]);
         document.getElementById("names").innerHTML = malesNames[Math.round(birthDay)];
 
-    } else if(gender === "female") {
+    } else if (gender === "female") {
 
         console.log(femalesNames[Math.round(birthDay)]);
         document.getElementById("names").innerHTML = femalesNames[Math.round(birthDay)];
