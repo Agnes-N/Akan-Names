@@ -2,7 +2,8 @@ html>body{
     background-image: url("images/laptop.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
-  
+    font-size: 120%;
+    color: 	#2F4F4F;
 }
 .paragraph{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -11,22 +12,29 @@ html>body{
 #paragraph{
     margin-top: 40px;
     text-align: center;
+    
 }
 .dayofbirth{
     margin: 35px;
-    margin-top: -20px;
+    /* margin-top: -30px; */
 }
 .selectgender{
     margin: 35px;
+
 }
 .submit{
     margin: 35px;
+    text-align: center;
 }
 .bgcolor{
     background-color: silver;
+    
 }
 
 h1{
     text-align: center;
     color: sienna;
+}
+.row{
+    margin-left: 200px;
 }
