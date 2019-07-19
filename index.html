@@ -28,7 +28,7 @@
                 <div class="row dayofbirth" clas="col-dm-4">
                     <label for="inputbirthday" class="col-dm-2 col-form-label">Enter your birthday</label>
                     <div class="col-dm-10">
-                            <input type="date" class="form-control">
+                            <input type="date" class="form-control" id="day">
                     </div>
                 </div>
                 <div class="row selectgender">
@@ -38,9 +38,10 @@
                       </div>
                       <div class="submit">
                             <button type="button" onClick="weekdays()">submit</button>
-                            
+                            <p>The Akan name is:</p>
+                            <p id="names"></p>          
                             <p>Day of the week you were born is:</p>
-                            
+                            <p id="display"></p>
                           </div>
             </form>
         </div>
